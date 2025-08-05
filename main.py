@@ -3,11 +3,12 @@ import streamlit as st
 from streamlit_option_menu import option_menu
 
 # Multipage import
-import login
-import create
-import read
-import update
-import delete
+# Comment out the app pages for now
+# import login
+# import create
+# import read
+# import update
+# import delete
 
 st.set_page_config(page_title="Liane's Library", layout="wide")
 
